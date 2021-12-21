@@ -3,6 +3,10 @@
 In order for this project to work, you need this server to run in the background:
 https://github.com/Igor-Minarkov/vue-js-exercise-server
 
+
+Technologies and Frameworks:
+Vue Js
+
 ## Project setup
 ```
 npm install
