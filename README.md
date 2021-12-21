@@ -1,5 +1,8 @@
 # vue-project
 
+In order for this project to work, you need this server to run in the background:
+https://github.com/Igor-Minarkov/vue-js-exercise-server
+
 ## Project setup
 ```
 npm install
